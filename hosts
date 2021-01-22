@@ -3,4 +3,5 @@ master01 ansible_user=ec2-user
 
 [kubernetes-worker-nodes]
 worker01 ansible_user=ec2-user 
-worker02 ansible_user=ec2-user 
+worker02 ansible_user=ec2-user
+worker03 ansible_user=ec2-user 
